@@ -1,4 +1,4 @@
-# Homelike client for assignment
+# Trail in creating crud operations in NodeJS
 
 ## Background information
 
